@@ -11,6 +11,15 @@
 
 ![212121](https://github.com/user-attachments/assets/f5d53922-7d7f-458c-aa77-787c0b021131)
 
+# 노드 설치 및 구성하기
+Node-RED의 "Manage palette"에서 다음 노드들을 설치합니다: "node-red-contrib-image-output", "node-red-contrib-usbcamera", "node-red-base64".
+
+노드 구성 
+![66666](https://github.com/user-attachments/assets/ad0645f7-49d4-4e49-9ca8-4661e2580550)
+
+
+
+
 
 
 
