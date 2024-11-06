@@ -7,8 +7,15 @@
 
 2. 라즈베리파이와 카메라 연결
 
-2-1 카메라 연결 확인 
-lsusb
+![2121](https://github.com/user-attachments/assets/5d306d40-672a-41b7-b24d-4316556737ef)
+
+![212121](https://github.com/user-attachments/assets/f5d53922-7d7f-458c-aa77-787c0b021131)
+
+
+
+
+
+
 
 
 
